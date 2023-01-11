@@ -4,7 +4,7 @@
 
 Layouts enable you to switch between different projects.  Each layout keeps its own list of open buffers, making it quick to navigate to specific buffers.
 
-++spc++ ++"l"++ shows a menu where you can select an existing layer or create a new layer. Type in the name of the layer to narrow to the existing layer name or create a new layer of that name.
+++spc++ ++"l"++ shows a menu where you can select an existing layout or create a new layout. Type in the name of the layout to narrow to the existing layout name or create a new layout of that name.
 
 ++spc++ ++"l"++ ++tab++ switches to the previous active layout, providing a quick way to jump between two projects actively being worked on.
 
