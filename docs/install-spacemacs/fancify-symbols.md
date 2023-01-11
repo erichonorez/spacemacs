@@ -4,11 +4,9 @@ Set the clojure layer variable `clojure-enable-fancify-symbols` to `t` and anony
 
 <!-- TODO: Add picture of fancify-symbols -->
 
-```emacs tile="Spacemacs Configuration"
-dotspacemacs-configuration-layers
-   '(
-     (clojure :variables
-              clojure-enable-fancify-symbols nil))
+```emacs title="Spacemacs Configuration - dotspacemacs-configuration-layers"
+(clojure :variables
+         clojure-enable-fancify-symbols nil)
 ```
 
 !!! HINT "Fancy symbols can cause confusion"
