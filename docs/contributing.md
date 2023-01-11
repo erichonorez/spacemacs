@@ -29,7 +29,7 @@ All content and interaction with any persons or systems must be done so with res
 
 ### Submit and issue or idea
 
-If something doesnt seem quite right or something is missing from the book, please [raise an issue via the GitHub repository](https://github.com/practicalli/spacemacs/issues){target=_blank} explaining in as much detail as you can.
+If something doesn't seem quite right or something is missing from the book, please [raise an issue via the GitHub repository](https://github.com/practicalli/spacemacs/issues){target=_blank} explaining in as much detail as you can.
 
 ### Considering a Pull request?
 
