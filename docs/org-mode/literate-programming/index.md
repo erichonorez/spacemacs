@@ -16,7 +16,7 @@ Org-mode includes Babel, which can take code and run it in an Emacs buffer of th
 
 ## Configure Literate Programming with Clojure
 
-Include the `org` and `clojure` layers in the `dotspacemacs-layer-configuration` of the `~/.spacemacs` configuration file.
+Include the `org` and `clojure` layers in the `dotspacemacs-configuration-layers` of the `~/.spacemacs` configuration file.
 
 
 ### Create a Clojure project

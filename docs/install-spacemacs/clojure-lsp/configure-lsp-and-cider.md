@@ -35,7 +35,7 @@ Remove the flycheck-clj-kondo configuration, `clojure-enable-linters 'clj-kondo`
 
 In .spacemacs, the clojure layer variables allow for evaluating top-level forms from within a rich comment block.  The size limit helps avoid slow-down of Emacs from too much output in the REPL buffer.
 
-```emacs title="Spacemacs configuration - `dotspacemacs-layer-configuration`"
+```emacs title="Spacemacs configuration - `dotspacemacs-configuration-layers`"
      (clojure :variables
      ;; clojure-backend 'cider               ;; use cider and disable lsp
      ;; clojure-enable-linters 'clj-kondo    ;; clj-kondo included in lsp
